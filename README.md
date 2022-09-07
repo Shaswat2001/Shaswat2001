@@ -12,7 +12,7 @@ Hi, I'm **Shaswat Garg**, a mechanial undergraduate from Delhi Technological Uni
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
   | <img src="./assets/Results_Trajectory_ELM_project.gif" alt="Results_Trajectory_ELM_project" width="300" /> | <img src="./assets/RVIZ.gif" alt="RVIZ" width="300" /> |
   | [**Motion Planning 2D Environment**](https://github.com/Shaswat2001/Motion_planning_of_Robots) | [**IRB 6620 Analysis**](https://github.com/Shaswat2001/Complete_Analysis_of_IRB-6620_6DOF_Manipulator) |
-  | <img src="./assets/PointR_Astar.PNG" width="300" />     | <img src="./assets/trap_joint_space.gif" width="300" />          |
+  | <img src="./assets/RRT.gif" width="300" />     | <img src="./assets/trap_joint_space.gif" width="300" />          |
   
 
 - (have) contributed to fascinating **🏎 [Deltech BAJA](https://www.linkedin.com/company/deltechbaja/mycompany/)** team.
