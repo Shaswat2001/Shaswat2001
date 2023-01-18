@@ -24,7 +24,7 @@ Hi, I'm **Shaswat Garg**, a mechanial undergraduate from Delhi Technological Uni
 
 More about me on [![website](https://img.shields.io/badge/Website-Shaswat2001.github.io-informational)](https://Shaswat2001.github.io/)
 
-![Shaswat Garg's github stats](https://github-readme-stats.vercel.app/api?username=Shaswat2001&count_private=true&show_icons=true)
+![Shaswat Garg's github stats](https://github-readme-stats.vercel.app/api?username=Shaswat2001&show_icons=true&theme=transparent)
 
 
 <!---
