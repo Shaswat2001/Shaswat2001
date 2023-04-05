@@ -8,7 +8,7 @@ Hi, I'm **Shaswat Garg**, a mechanial undergraduate from Delhi Technological Uni
 
 - (enjoy) working on challenging but cool :robot: robotics and motion planning projects. 
 
-  | [Invertible Neural Networks](https://github.com/Shaswat2001/INN_Continuum_Robot) | [RVIZ Continuum Robot](https://github.com/Shaswat2001/GA-for-Suspension-Optimization) |
+  | [Invertible Neural Networks](https://github.com/Shaswat2001/INN_Continuum_Robot) | [RVIZ Continuum Robot](https://github.com/Shaswat2001/continuum_robot_rviz) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
   | <img src="./assets/Results_Trajectory_ELM_project.gif" alt="Results_Trajectory_ELM_project" width="300" /> | <img src="./assets/RVIZ.gif" alt="RVIZ" width="300" /> |
   | [**Motion Planning 2D Environment**](https://github.com/Shaswat2001/Motion_planning_of_Robots) | [**IRB 6620 Analysis**](https://github.com/Shaswat2001/Complete_Analysis_of_IRB-6620_6DOF_Manipulator) |
