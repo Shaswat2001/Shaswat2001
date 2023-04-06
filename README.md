@@ -1,7 +1,5 @@
 ### सुप्रभात | Good day | Bonjour | Guten Tag  | こんにちは 👋
 
-<img src="https://github.com/Shaswat2001/Shaswat2001.github.io/blob/master/authors/admin/Shaswat_hindi.png" alt="" width="75" align="left">
-
 Hi, I'm **Shaswat Garg**, a mechanial undergraduate from Delhi Technological University. I am broadly interested in robotics, particularly continuum robots, Motion Planning, Deep Learning, Reinforcement Learning and Evolutionary Computation Algorithms.
 
 
