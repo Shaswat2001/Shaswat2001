@@ -1,6 +1,6 @@
 ### सुप्रभात | Good day | Bonjour | Guten Tag  | こんにちは 👋
 
-Hi, I'm **Shaswat Garg**, a MASc candidate at University of Waterloo, focusing on development of Safe Reinfrocement Learning algorithms for control of Aerial Manipulators. I am broadly interested in robotics, particularly continuum robots, Motion Planning, Deep Learning, Reinforcement Learning and Evolutionary Computation Algorithms.
+Hi, I'm **Shaswat Garg**, a MASc candidate at University of Waterloo, focusing on development of Safe Reinforcement Learning algorithms for control of Aerial Manipulators. I am broadly interested in robotics, particularly continuum robots, Motion Planning, Deep Learning, Reinforcement Learning and Evolutionary Computation Algorithms.
 
 
 
