@@ -20,7 +20,7 @@ Hi, I'm **Shaswat Garg**, a MASc candidate at University of Waterloo, focusing o
 - 🏎 <u>Formula 1 & 🏸 Badminton</u> in the free time.
 
 
-More about me on [![website](https://img.shields.io/badge/Website-Shaswat2001.github.io-informational)](https://Shaswat2001.github.io/)
+More about me on [![website](https://img.shields.io/badge/Website-Shaswat2001.github.io-informational)](https://shaswat2001.github.io/ai-blogs/)
 
 ![Shaswat Garg's github stats](https://github-readme-stats.vercel.app/api?username=Shaswat2001&show_icons=true&theme=transparent)
 
